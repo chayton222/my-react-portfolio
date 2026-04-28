@@ -31,7 +31,7 @@ const App = () => {
       <Hireme />
       <Contact />
       <footer className="p-3 text-center">
-        <h6 className="mb-3">JOHN ALEX</h6>
+        <h6 className="mb-3">Agustin Caliva</h6>
         <p>calivaagustin © All CopyRights Reserved 2022</p>
       </footer>
     </div>

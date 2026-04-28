@@ -59,8 +59,8 @@ export const content = {
   ],
   hero: {
     title: "Web Developer",
-    firstName: "JOHN",
-    LastName: "ALEX",
+    firstName: "Agustin",
+    LastName: "Caliva",
     btnText: "Hire Me",
     image: Hero_person,
     hero_content: [
@@ -165,7 +165,7 @@ export const content = {
         review:
           "“In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstra”",
         img: avatar2,
-        name: "Tom Alex",
+        name: "Agustin Caliva",
       },
       {
         review:
